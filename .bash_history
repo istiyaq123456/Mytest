@@ -121,3 +121,16 @@ git push https://github.com/istiyaq123456/test.git
 git remote add origin https://github.com/istiyaq123456/Mytest.git
 git config --global cd test
 git config --global.email "pokemontvbyistiyaq@gmail.com" && git config --global.name "istiyaq123456"
+git config --global user.email "pokemontvbyistiyaq@gmail.com" && git config -global user.name "istiyaq123456"
+git config --global user.email "pokemontvbyistiyaq@gmail.com" && git config --global user.name "istiyaq123456"
+cd test
+git config --global credential.helper store && git push https://github.com/istiyaq123456/test.git
+add -A
+git add -A
+git commit -m "done"
+git push origin matser
+git push origin master
+git pull origin master
+git add -A
+git commit -m "done"
+git push origin master

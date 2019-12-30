@@ -1,0 +1,24 @@
+[2019-12-30 00:28:49.816] [exthost] [info] extension host started
+[2019-12-30 00:28:50.464] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2019-12-30 00:28:50.466] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-12-30 00:28:50.599] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2019-12-30 00:28:50.621] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-12-30 00:28:51.059] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2019-12-30 00:28:51.060] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2019-12-30 00:28:51.539] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2019-12-30 00:28:51.539] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-12-30 00:28:51.561] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2019-12-30 00:28:51.562] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2019-12-30 00:28:51.577] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"*"}
+[2019-12-30 00:28:51.577] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/pokemontvbyistiyaq/.vscode/extensions/dbaeumer.vscode-eslint-2.0.11/client/out/extension
+[2019-12-30 00:28:51.710] [exthost] [info] eager extensions activated
+[2019-12-30 00:28:56.170] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:typescript"}
+[2019-12-30 00:28:56.171] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2019-12-30 00:28:56.360] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:typescript"}
+[2019-12-30 00:28:56.360] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2019-12-30 00:29:01.217] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/pokemontvbyistiyaq/vs/test/dp28.mp4' is in submodule 'vs/test'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2019-12-30 00:29:01.218] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/pokemontvbyistiyaq/vs/test/dp28.mp4' is in submodule 'vs/test'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2019-12-30 00:29:01.218] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/pokemontvbyistiyaq/vs/test/dp28.mp4' is in submodule 'vs/test'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2019-12-30 00:29:07.454] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2019-12-30 00:29:07.469] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain
+[2019-12-30 00:30:05.961] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/pokemontvbyistiyaq/vs/test/l.mp4' is in submodule 'vs/test'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
