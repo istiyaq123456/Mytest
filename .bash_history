@@ -111,3 +111,6 @@ add -A
 git ass -A
 git add -A
 git commit -m "done"
+git add -A
+git commit -m "done"
+git push origin master
