@@ -26,3 +26,12 @@
 [2019-12-29 23:51:39.800] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"*"}
 [2019-12-29 23:51:39.801] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/pokemontvbyistiyaq/.vscode/extensions/dbaeumer.vscode-eslint-2.0.11/client/out/extension
 [2019-12-29 23:51:39.931] [exthost] [info] eager extensions activated
+[2019-12-30 00:10:19.052] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:typescript"}
+[2019-12-30 00:10:19.066] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2019-12-30 00:10:19.343] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:typescript"}
+[2019-12-30 00:10:19.343] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2019-12-30 00:16:12.380] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2019-12-30 00:16:12.386] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2019-12-30 00:16:12.657] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2019-12-30 00:16:12.661] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2019-12-30 00:24:25.054] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/pokemontvbyistiyaq/vs/test/index.html' is in submodule 'vs/test'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
