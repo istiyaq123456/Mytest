@@ -1,0 +1,8 @@
+[2019-12-29 19:47:52.270] [sharedprocess] [info] main {"machineId":"c61f8b843a9c992eef91b1d99f5120da4ffbe4a7ffe56b72bcb51fa28ac4378c","windowId":2}
+[2019-12-29 19:48:00.849] [sharedprocess] [info] Installing extension: dbaeumer.vscode-eslint
+[2019-12-29 19:48:03.675] [sharedprocess] [info] Downloaded extension: dbaeumer.vscode-eslint /tmp/e60d3300-346c-4cb4-b3e6-e32bb41fa63b
+[2019-12-29 19:48:05.210] [sharedprocess] [info] Extracted extension to /home/pokemontvbyistiyaq/.vscode/extensions/.dbaeumer.vscode-eslint-2.0.11: dbaeumer.vscode-eslint
+[2019-12-29 19:48:05.217] [sharedprocess] [info] Renamed to /home/pokemontvbyistiyaq/.vscode/extensions/dbaeumer.vscode-eslint-2.0.11
+[2019-12-29 19:48:05.326] [sharedprocess] [info] Installation completed. dbaeumer.vscode-eslint
+[2019-12-29 19:48:05.365] [sharedprocess] [info] Extensions installed successfully: dbaeumer.vscode-eslint
+[2019-12-29 19:48:31.695] [sharedprocess] [info] Starting to clean up unused language packs.

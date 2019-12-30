@@ -1,0 +1,70 @@
+2019-12-27 14:20:55 [SERVER] [INFO] Starting integrated minecraft server version 1.6.1
+2019-12-27 14:20:55 [SERVER] [INFO] Generating keypair
+2019-12-27 14:20:57 [SERVER] [INFO] Converting map!
+2019-12-27 14:20:57 [SERVER] [INFO] Scanning folders...
+2019-12-27 14:20:57 [SERVER] [INFO] Total conversion count is 0
+2019-12-27 14:20:58 [SERVER] [INFO] Preparing start region for level 0
+2019-12-27 14:20:59 [SERVER] [INFO] Preparing spawn area: 3%
+2019-12-27 14:21:00 [SERVER] [INFO] Preparing spawn area: 6%
+2019-12-27 14:21:01 [SERVER] [INFO] Preparing spawn area: 10%
+2019-12-27 14:21:02 [SERVER] [INFO] Preparing spawn area: 14%
+2019-12-27 14:21:03 [SERVER] [INFO] Preparing spawn area: 17%
+2019-12-27 14:21:04 [SERVER] [INFO] Preparing spawn area: 22%
+2019-12-27 14:21:05 [SERVER] [INFO] Preparing spawn area: 28%
+2019-12-27 14:21:06 [SERVER] [INFO] Preparing spawn area: 34%
+2019-12-27 14:21:07 [SERVER] [INFO] Preparing spawn area: 38%
+2019-12-27 14:21:08 [SERVER] [INFO] Preparing spawn area: 43%
+2019-12-27 14:21:09 [SERVER] [INFO] Preparing spawn area: 49%
+2019-12-27 14:21:10 [SERVER] [INFO] Preparing spawn area: 52%
+2019-12-27 14:21:11 [SERVER] [INFO] Preparing spawn area: 58%
+2019-12-27 14:21:12 [SERVER] [INFO] Preparing spawn area: 64%
+2019-12-27 14:21:13 [SERVER] [INFO] Preparing spawn area: 67%
+2019-12-27 14:21:14 [SERVER] [INFO] Preparing spawn area: 68%
+2019-12-27 14:21:15 [SERVER] [INFO] Preparing spawn area: 71%
+2019-12-27 14:21:16 [SERVER] [INFO] Preparing spawn area: 71%
+2019-12-27 14:21:17 [SERVER] [INFO] Preparing spawn area: 73%
+2019-12-27 14:21:19 [SERVER] [INFO] Preparing spawn area: 76%
+2019-12-27 14:21:20 [SERVER] [INFO] Preparing spawn area: 78%
+2019-12-27 14:21:21 [SERVER] [INFO] Preparing spawn area: 81%
+2019-12-27 14:21:23 [SERVER] [INFO] Preparing spawn area: 84%
+2019-12-27 14:21:24 [SERVER] [INFO] Preparing spawn area: 86%
+2019-12-27 14:21:25 [SERVER] [INFO] Preparing spawn area: 88%
+2019-12-27 14:21:26 [SERVER] [INFO] Preparing spawn area: 90%
+2019-12-27 14:21:27 [SERVER] [INFO] Preparing spawn area: 92%
+2019-12-27 14:21:28 [SERVER] [INFO] Preparing spawn area: 95%
+2019-12-27 14:21:29 [SERVER] [INFO] Preparing spawn area: 98%
+2019-12-27 14:21:31 [SERVER] [INFO] Player[/127.0.0.1:0] logged in with entity id 69 at (221.5, 67.0, -89.5)
+2019-12-27 14:21:31 [SERVER] [INFO] Player joined the game
+2019-12-27 14:21:45 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-27 14:21:50 [SERVER] [INFO] Saving and pausing game...
+2019-12-27 14:21:50 [SERVER] [INFO] Saving chunks for level 'Demo_World'/Overworld
+2019-12-27 15:32:36 [SERVER] [INFO] Starting integrated minecraft server version 1.6.1
+2019-12-27 15:32:36 [SERVER] [INFO] Generating keypair
+2019-12-27 15:32:37 [SERVER] [INFO] Preparing start region for level 0
+2019-12-27 15:32:38 [SERVER] [INFO] Preparing spawn area: 12%
+2019-12-27 15:32:39 [SERVER] [INFO] Preparing spawn area: 23%
+2019-12-27 15:32:40 [SERVER] [INFO] Preparing spawn area: 27%
+2019-12-27 15:32:41 [SERVER] [INFO] Preparing spawn area: 32%
+2019-12-27 15:32:43 [SERVER] [INFO] Preparing spawn area: 35%
+2019-12-27 15:32:44 [SERVER] [INFO] Preparing spawn area: 40%
+2019-12-27 15:32:45 [SERVER] [INFO] Preparing spawn area: 46%
+2019-12-27 15:32:46 [SERVER] [INFO] Preparing spawn area: 51%
+2019-12-27 15:32:47 [SERVER] [INFO] Preparing spawn area: 57%
+2019-12-27 15:32:48 [SERVER] [INFO] Preparing spawn area: 62%
+2019-12-27 15:32:49 [SERVER] [INFO] Preparing spawn area: 66%
+2019-12-27 15:32:50 [SERVER] [INFO] Preparing spawn area: 71%
+2019-12-27 15:32:51 [SERVER] [INFO] Preparing spawn area: 74%
+2019-12-27 15:32:52 [SERVER] [INFO] Preparing spawn area: 79%
+2019-12-27 15:32:53 [SERVER] [INFO] Preparing spawn area: 85%
+2019-12-27 15:32:54 [SERVER] [INFO] Preparing spawn area: 89%
+2019-12-27 15:32:55 [SERVER] [INFO] Preparing spawn area: 92%
+2019-12-27 15:32:56 [SERVER] [INFO] Preparing spawn area: 96%
+2019-12-27 15:32:57 [SERVER] [INFO] Player[/127.0.0.1:0] logged in with entity id 115 at (221.5, 67.0, -89.5)
+2019-12-27 15:32:57 [SERVER] [INFO] Player joined the game
+2019-12-27 15:33:03 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2019-12-27 15:33:08 [SERVER] [INFO] Saving and pausing game...
+2019-12-27 15:33:08 [SERVER] [INFO] Saving chunks for level 'Demo_World'/Overworld
+2019-12-27 15:33:56 [SERVER] [INFO] Started on 33017
+2019-12-27 15:34:02 [SERVER] [INFO] Saving chunks for level 'Demo_World'/Nether
+2019-12-27 15:34:02 [SERVER] [INFO] Saving chunks for level 'Demo_World'/The End
+2019-12-27 15:34:02 [SERVER] [INFO] [Player: Set own game mode to Creative Mode]

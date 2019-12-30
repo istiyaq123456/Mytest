@@ -1,0 +1,74 @@
+{
+  "authenticationDatabase" : {
+    "2fb5a06d4b3e582eb9bc84b106dcee39" : {
+      "accessToken" : "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIyZmI1YTA2ZDRiM2U1ODJlYjliYzg0YjEwNmRjZWUzOSIsIm5iZiI6MTU3NzQ1NjEwNiwieWdndCI6IjE0NDdjNTZmODcwYzRlMzA5OTcxZGVjNGZhYjFjNTQ5Iiwicm9sZXMiOltdLCJpc3MiOiJpbnRlcm5hbC1hdXRoZW50aWNhdGlvbiIsImV4cCI6MTU3NzYyODkwNiwiaWF0IjoxNTc3NDU2MTA2fQ.wrpKC3o8OOSHA5cERPuL-mDZVM3dVn6w7YvCb297jtU",
+      "properties" : 
+      [
+        {
+          "name" : "preferredLanguage",
+          "profileId" : "",
+          "userId" : "",
+          "value" : "en-us"
+        },
+        {
+          "name" : "registrationCountry",
+          "profileId" : "",
+          "userId" : "",
+          "value" : "GB"
+        }
+      ],
+      "username" : "ahmedistiyaq03@gmail.com"
+    }
+  },
+  "clientToken" : "241c3a7d56574860abd8119c8f26cf42",
+  "launcherVersion" : {
+    "format" : 21,
+    "name" : "",
+    "profilesFormat" : 2
+  },
+  "profiles" : {
+    "428e0120865949619517fc25c65f5e14" : {
+      "created" : "2019-12-27T14:16:32.218Z",
+      "icon" : "Furnace",
+      "lastUsed" : "2019-12-27T15:31:49.255Z",
+      "lastVersionId" : "1.6.1",
+      "name" : "Hey",
+      "type" : "custom"
+    },
+    "9f8c5e2b69d5f1e031254e3d21e75393" : {
+      "created" : "1970-01-02T00:00:00.000Z",
+      "icon" : "Grass",
+      "lastUsed" : "1970-01-02T00:00:00.000Z",
+      "lastVersionId" : "latest-release",
+      "name" : "",
+      "type" : "latest-release"
+    },
+    "b817644ec53bc1fea2ff809ca8905c2e" : {
+      "created" : "1970-01-01T00:00:00.000Z",
+      "icon" : "Crafting_Table",
+      "lastUsed" : "1970-01-01T00:00:00.000Z",
+      "lastVersionId" : "latest-snapshot",
+      "name" : "",
+      "type" : "latest-snapshot"
+    }
+  },
+  "selectedUser" : {
+    "account" : "2fb5a06d4b3e582eb9bc84b106dcee39",
+    "profile" : ""
+  },
+  "settings" : {
+    "channel" : "release",
+    "crashAssistance" : true,
+    "enableAdvanced" : false,
+    "enableAnalytics" : true,
+    "enableHistorical" : false,
+    "enableReleases" : true,
+    "enableSnapshots" : false,
+    "keepLauncherOpen" : true,
+    "locale" : "en-US",
+    "profileSorting" : "ByLastPlayed",
+    "showGameLog" : false,
+    "showMenu" : false,
+    "soundOn" : false
+  }
+}

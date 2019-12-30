@@ -1,0 +1,10 @@
+[2019-12-29 19:59:21.504] [main] [error] SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at u.loadAsync (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:348:91)
+    at async u.init (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:347:714)
+    at async Promise.all (index 2)
+    at async /usr/share/code/resources/app/out/vs/code/electron-main/main.js:549:946
+    at async Object.startup (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:549:814)
+[2019-12-29 19:59:21.662] [main] [info] update#setState idle
+[2019-12-29 19:59:51.775] [main] [info] update#setState checking for updates
+[2019-12-29 19:59:53.618] [main] [info] update#setState idle

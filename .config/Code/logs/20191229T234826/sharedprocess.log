@@ -1,0 +1,8 @@
+[2019-12-29 23:48:41.519] [sharedprocess] [info] main {"machineId":"c61f8b843a9c992eef91b1d99f5120da4ffbe4a7ffe56b72bcb51fa28ac4378c","windowId":2}
+[2019-12-29 23:48:55.326] [sharedprocess] [info] Installing extension: ms-python.python
+[2019-12-29 23:49:21.767] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-12-29 23:50:21.205] [sharedprocess] [info] Downloaded extension: ms-python.python /tmp/f218a543-4b66-4683-99e8-326d9e83fa89
+[2019-12-29 23:51:20.400] [sharedprocess] [info] Extracted extension to /home/pokemontvbyistiyaq/.vscode/extensions/.ms-python.python-2019.11.50794: ms-python.python
+[2019-12-29 23:51:20.404] [sharedprocess] [info] Renamed to /home/pokemontvbyistiyaq/.vscode/extensions/ms-python.python-2019.11.50794
+[2019-12-29 23:51:20.446] [sharedprocess] [info] Installation completed. ms-python.python
+[2019-12-29 23:51:21.791] [sharedprocess] [info] Extensions installed successfully: ms-python.python
