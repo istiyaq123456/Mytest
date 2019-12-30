@@ -134,3 +134,10 @@ git pull origin master
 git add -A
 git commit -m "done"
 git push origin master
+git add -A
+git commit -m "done"
+git push origin master
+git push https://github.com/istiyaq123456/test.git
+git pull https://github.com/istiyaq123456/test.git
+unpacking
+Tawhid is gay
